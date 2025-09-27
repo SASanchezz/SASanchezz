@@ -1,19 +1,15 @@
 # Hi there 👋, I'm Alexander
-
-## Back-End Team Lead | Blockchain Enthusiast 🚀
+## Sofrware Engineer 🚀
+![snake gif](https://github.com/SASanchezz/SASanchezz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### About Me
 
-I'm a passionate and results-driven **Back-End Team Lead** and **Middle Developer** specializing in building robust, scalable, and efficient server-side applications. With a strong focus on **Node.js** and **TypeScript**, I thrive on tackling complex challenges, particularly in the realm of high-performance systems and emerging technologies like **blockchain**.
-
-Currently, I'm leading a development team at **Profair Games**, creating high-availability gambling games (slots).
-
 * 🎓 **Master's Student:** Business Finance Analytics at KSE (Kyiv School of Economics).
-* 💻 **Tech Stack:** Node.js, TypeScript, AWS, Microservices, MySQL, Nginx, Sequelize, Unit Testing.
-* 💡 **Current Focus:** Deep diving into **Blockchain Indexing Tools and Algorithms** for my diploma work.
-* 🌍 **Location:** Kyiv, Ukraine.
+* 💻 **Tech Stack:** Node.js, TypeScript, AWS/GCP, SQL, TypeORM, Unit Testing.
+* 💡 **Current Focus:** Deep diving into **Deep Learning** for my upcoming Master Degree.
+* 🌍 **Location:** Katowice, Poland.
 * 📚 **Learning:** Expanding my horizons with **German** language.
 * 🏋️ **Hobbies:** IT, Cooking 🍳, Non-fiction books (self-development, business, time-management), and Sport.
 
@@ -27,9 +23,9 @@ Currently, I'm leading a development team at **Profair Games**, creating high-av
 | :--- | :--- |
 | **Languages** | **Node.js**, **TypeScript** (Primary), JavaScript, SQL |
 | **Cloud/DevOps** | **AWS** (EC2, S3, Lambda), Docker, Nginx |
-| **Databases** | MySQL, PostgreSQL (Familiar), Redis (Familiar) |
-| **Frameworks/Libs** | Express.js, **Sequelize**, Unit Testing (Mocha, Jest) |
-| **Concepts** | **Microservices**, **Blockchain**, High Load, Design Patterns |
+| **Databases** | MySQL, PostgreSQL, Redis |
+| **Frameworks/Libs** | Express.js, NestJS, TypeORM, Unit Testing (Mocha, Jest) |
+| **Concepts** | Microservices, Blockchain, High Load, Design Patterns |
 
 ---
 
@@ -45,36 +41,19 @@ Currently, I'm leading a development team at **Profair Games**, creating high-av
 
 ---
 
-### 🔗 Connect with Me
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/alexander-hrachov-399320220/) |
-| **Email** | [alexander@email.com](mailto:alexander@email.com) |
-
----
-
-### 💡 Featured Project/Diploma Work (Showcasing my Blockchain interest)
-
-#### **Tools and Algorithms for Indexing Blockchain Platforms**
-
-* **Description:** My current master's diploma work focuses on designing and implementing an efficient system for indexing blockchain data. This involves architecting a scalable solution to save blockchain information into a structured database for fast querying and analytics, combining my interests in back-end development and blockchain technology.
-* **Key Technologies:** Node.js, chosen DB (e.g., PostgreSQL/MongoDB), Data Structures.
-* **Goal:** Create a performant, custom-tailored indexing layer superior to existing general-purpose solutions.
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-hrachov-399320220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>  
 
 ---
 
-### ✨ Let's Build Something Great!
-
-Feel free to explore my repositories. I'm always open to discussing **microservices architecture**, **Node.js performance optimization**, or **blockchain indexing techniques**.
-
-| Placeholder | Placeholder |
-| :--- | :--- |
-| **[Animated GIF of code compiling/a server graphic]** | **[A professional, high-quality photo of you (Alexander)]** |
-
-| **Animation Suggestion** | **Photo Suggestion** |
-| :--- | :--- |
-| *Find a suitable GIF on GIPHY or create a simple animation of a server rack, a microservice diagram, or code flowing.* | *Use a clear, well-lit, professional headshot.* |
+## ✨ Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
